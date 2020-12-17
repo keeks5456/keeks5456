@@ -1,7 +1,6 @@
 # Hi there! Akiko Is The Name, Coding Is My Game 👋
 
-Welcome to my Github! I am a Software Engineer, born and raised in San Francisco where I occasionally to spend my time at Dolores park at the top of the hill admiring the simple pleasures the city has to offer!
-I am a recent grade of Flatiron School 2020! My present self plans to prepare my future self for an amazing career in Tech so that my past self can be proud of this sudden career change!
+Welcome to my Github! I am a Software Engineer, born and raised in San Francisco where I occasionally to spend my time at Dolores park at the top of the hill admiring the simple pleasures the city has to offer! I am a recent graduate of Flatiron School 2020! My present self plans to prepare my future self for an amazing career in Tech so that my past self can be proud of this sudden career change!
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on sharpening my skills in Javascript, Ruby, and React
