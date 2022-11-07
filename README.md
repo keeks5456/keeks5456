@@ -10,4 +10,4 @@ Welcome to my Github! I am a Software Engineer, born and raised in San Francisco
 - 💬 Lets talk about collaborations, hackathons, or potential job openings.
 - 📫 Learn more about me: [Linkedin](https://www.linkedin.com/in/agreen08/) | [Twitter](https://twitter.com/akikoDotJS) | [Medium](https://medium.com/@agreen17)
 - ⚡ Fun fact: I wont shut up about different Anime I have watched over the years! Always open to trade favorite anime shows
-- Physical Activities: As an active person, I enjoy endoor bouldering, hiking, outrigger canoe paddling, home workouts, dog walking.
+- Physical Activities: As an active person, I enjoy endoor bouldering, hiking, outrigger canoe paddling, home workouts, dog walking. 
